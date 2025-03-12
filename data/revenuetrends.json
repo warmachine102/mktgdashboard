@@ -1,0 +1,58 @@
+[
+  {
+    "quarter": "Q1-2022",
+    "Alpha Corp": 78.5,
+    "Beta Inc": 152.3,
+    "Gamma LLC": 95.7,
+    "Delta Co": 72.1
+  },
+  {
+    "quarter": "Q2-2022",
+    "Alpha Corp": 92.2,
+    "Beta Inc": 163.5,
+    "Gamma LLC": 105.3,
+    "Delta Co": 61.8
+  },
+  {
+    "quarter": "Q3-2022",
+    "Alpha Corp": 65.9,
+    "Beta Inc": 170.8,
+    "Gamma LLC": 88.9,
+    "Delta Co": 78.4
+  },
+  {
+    "quarter": "Q4-2022",
+    "Alpha Corp": 81.4,
+    "Beta Inc": 185.2,
+    "Gamma LLC": 112.5,
+    "Delta Co": 65.2
+  },
+  {
+    "quarter": "Q1-2023",
+    "Alpha Corp": 75.3,
+    "Beta Inc": 198.7,
+    "Gamma LLC": 101.6,
+    "Delta Co": 70.9
+  },
+  {
+    "quarter": "Q2-2023",
+    "Alpha Corp": 88.6,
+    "Beta Inc": 205.1,
+    "Gamma LLC": 93.4,
+    "Delta Co": 79.6
+  },
+  {
+    "quarter": "Q3-2023",
+    "Alpha Corp": 70.1,
+    "Beta Inc": 212.9,
+    "Gamma LLC": 108.2,
+    "Delta Co": 68.7
+  },
+  {
+    "quarter": "Q4-2023",
+    "Alpha Corp": 84.9,
+    "Beta Inc": 220.5,
+    "Gamma LLC": 97.0,
+    "Delta Co": 75.5
+  }
+]
