@@ -1,0 +1,70 @@
+/* static/style.css */
+
+body {
+    font-family: sans-serif;
+    margin: 20px; /* Add some margin around the body content */
+}
+
+h1 {
+    text-align: center;
+    color: #333; /* Dark grey color for the main title */
+    margin-bottom: 20px;
+}
+
+.chart-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 40px; /* Increased margin between charts */
+    padding: 20px;
+    border: 1px solid #eee; /* Light border around chart containers */
+    border-radius: 5px;
+    background-color: #f9f9f9; /* Light grey background for chart containers */
+}
+
+.chart-title {
+    font-size: 1.3em;
+    margin-bottom: 15px; /* Slightly increased margin below chart titles */
+    color: #555; /* Slightly darker grey for chart titles */
+}
+
+svg {
+    width: 100%;
+    height: auto;
+    max-height: 450px; /* Slightly increased max height for SVGs */
+}
+
+.tooltip {
+    position: absolute;
+    text-align: center;
+    width: auto;
+    height: auto;
+    padding: 8px;
+    font: 12px sans-serif;
+    background: white;
+    border: 1px solid lightgray;
+    border-radius: 4px;
+    pointer-events: none;
+    opacity: 0;
+    box-shadow: 2px 2px 6px rgba(0,0,0,0.15); /* Add a subtle shadow to the tooltip */
+}
+
+.axis path,
+.axis line {
+    fill: none;
+    stroke: black;
+    shape-rendering: crispEdges;
+}
+
+.axis text {
+    font-size: 0.9em; /* Slightly larger axis text */
+    color: #666; /* Grey color for axis text */
+}
+
+/* Example additional styling - for bars in bar chart */
+.bar {
+    fill: #4c78a8; /* Keep the original bar color, or change if desired */
+}
+
+/* Example: Style for lines in line chart - if needed, can target specific lines/companies */
+/* .line-BetaInc { stroke: darkgreen; }  */
