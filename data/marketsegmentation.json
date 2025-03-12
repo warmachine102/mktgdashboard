@@ -1,0 +1,17 @@
+[
+  {
+    "segmentName": "Segment A",
+    "revenue": 315.2,
+    "growthRate": 0.043
+  },
+  {
+    "segmentName": "Segment B",
+    "revenue": 520.5,
+    "growthRate": 0.078
+  },
+  {
+    "segmentName": "Segment C",
+    "revenue": 195.8,
+    "growthRate": 0.021
+  }
+]
